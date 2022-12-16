@@ -1,27 +1,8 @@
-#  File: ExpressionTree.py
-#  Description: Creating an expression tree which represents algebraic operations in the form of a binary tree with nodes corresponding to numbers and operators
-
-#  Student Name: Karim ladak
-
-#  Student UT EID: kal3635
-
-#  Partner Name: Suren Bhakta
-
-#  Partner UT EID: ssb2943
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52520
-
-#  Date Created: 10/14/2022
-
-#  Date Last Modified: 10/17/2022 Suren Birthday haha
-
 import sys
 
 operators = ['+', '-', '*', '/', '//', '%', '**']
 
-# GIven code which has the e operations of a stack and a function to check if the stack is empty
+# Given code which has the e operations of a stack and a function to check if the stack is empty
 class Stack(object):
     def __init__(self):
         self.stack = []
