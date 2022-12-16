@@ -1,26 +1,3 @@
-#  File: Spiral.py
-
-#  Description: Creates a spiral that starts at center of dimension then counts outwards until the square
-
-#  Student Name: Suren Bhakta
-
-#  Student UT EID: ssb2943
-
-#  Partner Name: Karim Ladak
-
-#  Partner UT EID: Kal365
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52520
-
-#  Date Created: 09/01/2022
-
-#  Date Last Modified: 09/06/2022
-
-# Input: n is an odd integer between 1 and 100
-# Output: returns a 2-D list representing a spiral
-#         if n is even add one to n
 import sys
 
 
@@ -63,10 +40,6 @@ def create_spiral(n):
     return spiral
 
 
-# Input: spiral is a 2-D list and n is an integer
-# Output: returns an integer that is the sum of the
-#         numbers adjacent to n in the spiral
-#         if n is outside the range return 0
 def sum_adjacent_numbers(spiral, n):
     n=int(n)
     sum = 0
