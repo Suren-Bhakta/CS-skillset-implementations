@@ -12,8 +12,7 @@ This repository is a culmination of all the skills that I have ammassed in the c
   - Upon file input with given dimension and coordinates, will create a 2d array with a spiral of numbers starting with "1" in the center.
 
 
-
-2. [encryption/decryption algorithms]
+2. [encryption/decryption algorithms](https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/encrypt.py)
 
   - Upon file input, will append the string to a 2d array based off length then encrypt the message by rotating the array.
   - Decryption follows the same procedure but rotates the 2d array counterclockwise.
