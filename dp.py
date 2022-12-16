@@ -1,28 +1,6 @@
-#  File: naximum_profit.py
-
-#  Description: Recursive function that will generate all the possible combinations of houses and returns the maximum profit within budget
-
-#  Student Name: Suren Bhakta
-
-#  Student UT EID: ssb2943
-
-#  Partner Name: Karim Ladak
-
-#  Partner UT EID: kal3635
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52520
-
-#  Date Created: 11/22/2022
-
-#  Date Last Modified: 11/28/2022
-
-
-
 import sys
 
-# Add Your functions here
+
 # this function will find the subset with the most houses that will stay under or equal to budget
 def max(money, num_houses, prices, increase):
     tup = [(price, exp) for price, exp in zip(prices, increase)]
@@ -42,10 +20,6 @@ def arrange(final):
     for c in profit:
         res+=[c+[final[-1]]]
     return profit + res
-
-# You are allowed to change the main function. 
-
-# Do not change the template file name. 
 
 
 def main():
@@ -80,10 +54,10 @@ def main():
 
 
 
-# Add your implementation here .... 
+
     result =  max(money, num_houses, prices, increase) 
 
-# Add your functions and call them to generate the result. 
+
 
     print(result)
 
