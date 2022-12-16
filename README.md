@@ -18,7 +18,7 @@ This repository is a culmination of all the skills that I have ammassed in the c
   - Decryption follows the same procedure but rotates the 2d array counterclockwise.
 
 
-3. [Object Oriented Programming]
+3. [Object Oriented Programming](https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/oop.py)
 
   - Fundamental creation of classes in python to determine employee salaries.
 
