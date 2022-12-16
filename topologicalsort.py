@@ -1,13 +1,3 @@
-#  File: GraphFill.py
-#  Description: Uses DFS to check if a cycle exists, if a cycle is not present, perfrom topological sort and return list
-#  Student Name: Suren Bhakta
-#  Student UT EID: ssb2943
-#  Partner Name: Karim Ladak
-#  Partner UT EID: kal3635
-#  Course Name: CS 313E
-#  Unique Number: 52520
-#  Date Created: 11/11/2022
-#  Date Last Modified: 11/14/2022
 
 import sys
 
