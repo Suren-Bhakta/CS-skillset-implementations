@@ -1,20 +1,7 @@
-#  File: GraphFill.py
-#  Description: Uses DFS and BFS with an adjacency matrix to color each node one by one like a "fill bucket"
-#  Student Name: Suren Bhakta
-#  Student UT EID: ssb2943
-#  Partner Name: Karim Ladak
-#  Partner UT EID: kal3635
-#  Course Name: CS 313E
-#  Unique Number: 52520
-#  Date Created: 10/28/2022
-#  Date Last Modified: 11/09/2022 7:40pm
-
 import os
 import sys
 
-# -----------------------PRINTING LOGIC, DON'T WORRY ABOUT THIS PART----------------------------
 
-# this enables printing colors on Windows somehow
 os.system("")
 
 # code to reset the terminal color
