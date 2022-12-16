@@ -1,23 +1,3 @@
-#  File: Spiral.py
-
-#  Description: Creates a spiral that starts at center of dimension then counts outwards until the square
-
-#  Student Name: Suren Bhakta
-
-#  Student UT EID: ssb2943
-
-#  Partner Name: Karim Ladak
-
-#  Partner UT EID: Kal365
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52520
-
-#  Date Created: 09/01/2022
-
-#  Date Last Modified: 09/06/2022
-
 # Input: n is an odd integer between 1 and 100
 # Output: returns a 2-D list representing a spiral
 #         if n is even add one to n
