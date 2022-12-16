@@ -1,26 +1,3 @@
-#  File: Cypher.py
-
-#  Description: decrypts a string of words
-
-#  Student Name: Suren Bhakta
-
-#  Student UT EID: ssb2943
-
-#  Partner Name: Karim Ladak
-
-#  Partner UT EID: kal3635
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52520
-
-#  Date Created: 09/08/2022
-
-#  Date Last Modified: 09/12/2022
-
-# Input: strng is a string of 100 or less of upper case, lower case, 
-#        and digits
-# Output: function returns an encrypted string 
 import sys
 import math
 
@@ -84,9 +61,6 @@ def square(length):
     return x
 
 
-# Input: strng is a string of 100 or less of upper case, lower case,
-#        and digits
-# Output: function returns an encrypted string 
 def decrypt(strng):
     L = len(strng)
     if 0 < L <= 100:
