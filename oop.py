@@ -1,14 +1,3 @@
-# File: employee.py
-#  Description: Based off specific attributes provided for each employee, returns the employee's information
-#  Student Name: Karim Ladak
-#  Student UT EID: kal3635
-#  Partner Name: Suren Bhakta
-#  Partner UT EID: ssb2943
-#  Course Name: CS 313E
-#  Unique Number: 52520
-#  Date Created: 9/13/22
-#  Date Last Modified: 9/19/22
-
 import sys
 
 
