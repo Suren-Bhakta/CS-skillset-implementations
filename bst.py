@@ -1,26 +1,3 @@
-
-
-#  File: TestBinaryTree.py
-
-#  Description: Creates Binary tree with given methods
-
-#  Student Name: Suren Bhakta
-
-#  Student UT EID: ssb2943
-
-#  Partner Name:
-
-#  Partner UT EID:
-
-#  Course Name: CS 313E
-
-#  Unique Number:
-
-#  Date Created:
-
-#  Date Last Modified:
-
-
 import sys
 
 
@@ -86,10 +63,6 @@ class Tree(object):
                 parent.rChild = new_node
             return
 
-    # Returns the range of values stored in a binary search tree of integers.
-    # The range of values equals the maximum value in the binary search tree minus the minimum value.
-    # If there is one value in the tree the range is 0. If the tree is empty the range is undefined.
-    # For many of the the desired functions, helper methods were created
     def range(self):
         #Min and Max functions derived from professor github to fin min and max vals of tree
         min=Tree.minimum(self)
@@ -144,10 +117,6 @@ class Tree(object):
             finalList.append(self.get_level(level)[0].data)  # Using the level function, get the level then only the left of the tree on each level
         return finalList
 
-    # returns the sum of the value of all leaves.
-    # a leaf node does not have any children.
-    # returns the sum of the value of all leaves.
-    # a leaf node does not have any children.
     def sum_leaf_nodes(self):
         return self.leaf_helper(self.root)
 
