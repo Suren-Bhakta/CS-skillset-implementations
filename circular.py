@@ -1,25 +1,3 @@
-#  File: Josephus.py
-
-#  Description: This program is given a number n, the ordering of the men in the circle, and the man from whom the count begins, to determine the order in which the men are eliminated from the circle and which man escapes.
-
-#  Student Name: Suren Bhakta
-
-#  Student UT EID: ssb2943
-
-#  Partner Name: Karim Ladak
-
-#  Partner UT EID: kal3635
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52520
-
-#  Date Created: 10/08/2022
-
-#  Date Last Modified: 10/10/2022
-
-# For chunks of this assignment, functions were derived from in class examples of linked lists via prof. GitHub
-# https://github.com/kiat/Elements-of-Software-Design
 import sys
 
 # Felt it was simpler to add a third attribute previous
@@ -34,10 +12,6 @@ class CircularList(object):
   # Constructor
   def __init__(self):
     self.first = None
-
-  # With this implementation, 1 of 2 things are achieved:
-  # 1: Creates the list sequentially from num_soldier input
-  # 2: By setting the end of list to the beginning, the circular list is created via pointer reruning to the front
 
   def insert(self, data):
     newNode = Link(data)
@@ -125,9 +99,7 @@ class CircularList(object):
     self.delete(num.data)
     return num.data, num_next
 
-  # Return a string representation of a Circular List
-  # The format of the string will be the same as the __str__
-  # format for normal Python lists
+
   def __str__(self):
     temp = self.first
     # if there are no more left to be eliminated or empty list
