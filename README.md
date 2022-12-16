@@ -7,7 +7,7 @@ This repository is a culmination of all the skills that I have ammassed in the c
 
 ## Projects
 
-1. [2d array manipulation] (https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/2dArray.py)
+1. [2d array manipulation](https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/2dArray.py)
 
   - Upon file input with given dimension and coordinates, will create a 2d array with a spiral of numbers starting with "1" in the center.
 
