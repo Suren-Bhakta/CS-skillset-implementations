@@ -28,7 +28,7 @@ This repository is a culmination of all the skills that I have ammassed in the c
   - Creation of binary and linear search algorithms to determine minumum lines of code capable of being written based off input file of test cases and productivity factor.
 
 
-5. [Circular Linked List](https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/circular.py
+5. [Circular Linked List](https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/circular.py)
 
   - Use of circular linked list to solve famous josephus problem.
 
