@@ -23,12 +23,12 @@ This repository is a culmination of all the skills that I have ammassed in the c
   - Fundamental creation of classes in python to determine employee salaries.
 
 
-4. [Various Search Algorithms]
+4. [Various Search Algorithms](https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/search.py)
 
   - Creation of binary and linear search algorithms to determine minumum lines of code capable of being written based off input file of test cases and productivity factor.
 
 
-5. [Circular Linked List]
+5. [Circular Linked List](https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/circular.py
 
   - Use of circular linked list to solve famous josephus problem.
 
