@@ -44,17 +44,17 @@ This repository is a culmination of all the skills that I have ammassed in the c
 
 
 
-8. [DFS/BFS]
+8. [DFS/BFS](https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/dfs:bfs.py)
 
   - With the creation of an adjacency matrix, fill a given image (via file input) with search algorithms listed above
 
 
-9. [Topo Sort}
+9. [Topo Sort](https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/topologicalsort.py)
 
   - Use of stack and queue to determine if a cycle exists. If so, run topological sort.
 
 
-10. [Dynamic Programming]
+10. [Dynamic Programming](https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/dp.py)
 
   - Sample dynamic programming to determine max amount of ROI on houses from sample file input.
 
