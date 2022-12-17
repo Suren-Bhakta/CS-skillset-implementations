@@ -33,12 +33,12 @@ This repository is a culmination of all the skills that I have ammassed in the c
   - Use of circular linked list to solve famous josephus problem.
 
 
-6. [Expression Tree]
+6. [Expression Tree](https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/Expression.py)
 
   - With input of ecpression from file, creates standard expression tree with outputs prefix and postfix
 
 
-7. [Binary Search Tree Manipulation]
+7. [Binary Search Tree Manipulation](https://github.com/Suren-Bhakta/CS-skillset-implementations/blob/main/bst.py)
 
   - Use of various methods to calculate various attributes of a given bst
 
